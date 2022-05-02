@@ -1,8 +1,7 @@
-# Pizza de Calabresa
+#Pizza de Calabresa
+**ingredientes**
 
-### ingredientes 
 Massa pronta
 queijo
 calabresa
 molho
-
